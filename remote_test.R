@@ -12,3 +12,6 @@ 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
 #now gitHub should not ask for access
 
 #try again
+gitcreds_set()
+#the new token: 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
+#now it worked
