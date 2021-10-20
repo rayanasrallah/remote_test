@@ -1,9 +1,9 @@
 #Session 7, Oct. 20, 2021
 12345
 #initial commit
-
+899989899999
 #first change to the main branch - does in conflict now?
-
+77777777777777
 #second change: creating a conflict - does in conflict now? again and again
 potatoooo
 6666666666666
