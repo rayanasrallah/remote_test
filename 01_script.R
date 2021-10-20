@@ -4,6 +4,6 @@
 
 #first change to the main branch - does in conflict now?
 
-#second change: creating a conflict - does in conflict now?
+#second change: creating a conflict - does in conflict now? again and again
 
 #deleted line
