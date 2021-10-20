@@ -2,8 +2,8 @@
 
 #initial commit
 
-#first change to the main branch
+#first change to the main branch - does in conflict now?
 
-#second change: creating a conflict
+#second change: creating a conflict - does in conflict now?
 
-#to create a conflict, the changes should be done on the same file (same line) in the two branches (the main and the feature branch)
+#to create a conflict, the changes should be done on the same file (same line) in the two branches (the main and the feature branch) does in conflict now?
